@@ -1,0 +1,5 @@
+libgl1-mesa-glx
+tesseract-ocr
+poppler-utils
+unstructured_inference
+pytesseract
